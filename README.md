@@ -1,4 +1,5 @@
 # A Full-Text Learning for Medical Information Retrieval from Web
+This readme file is written by one of the team members Gongna.
 
 
 ## FOLDER STRUTURE
